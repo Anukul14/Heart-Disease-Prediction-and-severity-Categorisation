@@ -6,6 +6,14 @@ Cardiovascular diseases include deep vein thrombosis, peripheral arterial diseas
 coronary heart disease, congenital heart disease and rheumatic heart disease. 31% of the
 death of people is due to Heart disease around the globe every year.
 
+
+This project was undertaken by our group for minor project in the 6th semester under the supervision of 
+  Prof. Dr. Afzal Husssain Shahid.
+The three members of our group were:
+ --1806093 ANUKUL KUMAR
+ --1806092 RITESH SINGH
+ --1806016 ANKIT GOND
+
 We have tried to perform prediction as well as severity categorisation of heart disease .
 Prior diagonosis of heart disease can prove to be very beneficial as well as life saving 
 for many patients.
